@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Mathematics",
+        "author": "",
+        "year": 2025,
+        "genre": "",
+        "read": true
+    },
+    {
+        "title": "Mathematics",
+        "author": "School",
+        "year": 2025,
+        "genre": "Englist",
+        "read": true
+    },
+    {
+        "title": "Mathematics",
+        "author": "School",
+        "year": 2025,
+        "genre": "Englist",
+        "read": true
+    }
+]
